@@ -13,4 +13,4 @@ If someone wants to see the bug, just replace;
 with;
             int iterations Console.Read();
             
-If you know whats going on, I would love to know (To lazy to google it).
+If you know whats going on, I would love to know (Too lazy to google it).
