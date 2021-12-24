@@ -10,7 +10,7 @@ If someone wants to see the bug, just replace;
             string iterations;
             int i = Convert.ToInt32(iterations = Console.ReadLine());
             
-with;
-            int iterations Console.Read();
+**With**;
+            int iterations = Console.Read();
             
 If you know whats going on, I would love to know (Too lazy to google it).
